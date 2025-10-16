@@ -1,0 +1,17 @@
+# Python / Backend Files
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Frontend Files
+frontend/node_modules/
+frontend/build/
+frontend/.env*
+
+# Project Root Files
+# This is the line that will now correctly ignore your data folder
+data/
+
+# IDE and OS specific files
+.vscode/
+.DS_Store
